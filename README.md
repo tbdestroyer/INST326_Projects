@@ -1,2 +1,2 @@
-# INST326_exercise4
+# INST326_Projects
 INST326 Exercises and Projects 
