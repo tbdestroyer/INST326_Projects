@@ -2,6 +2,14 @@
 Avkash Chandra & Taner Bulbul
 
 """
-print("Hello")
 
-print("goodbye")
+def say_hello():
+    print("Hello")
+
+def say_goodbye():
+    print("goodbye")
+    
+    
+if __name__ == "__main__":
+    say_hello()
+    say_goodbye()
